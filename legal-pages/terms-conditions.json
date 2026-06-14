@@ -4,53 +4,294 @@
   "type": "page",
   "content": [
     {
-      "id": "tc001aaa",
+      "id": "6e48aaf9",
       "elType": "section",
-      "settings": {"background_background":"classic","background_color":"#fdf9f5","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},
-      "elements": [{
-        "id": "tc001col",
-        "elType": "column",
-        "settings": {"_column_size":100,"content_position":"top"},
-        "elements": [
-          {"id":"tc001sp1","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":40,"sizes":[]}}},
-          {"id":"tc001br","elType":"widget","widgetType":"heading","settings":{"title":"Burans Valley","header_size":"h5","align":"center","title_color":"#a07850","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]}}},
-          {"id":"tc001sp2","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":6,"sizes":[]}}},
-          {"id":"tc001h1","elType":"widget","widgetType":"heading","settings":{"title":"Terms & Conditions","header_size":"h1","align":"center","title_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":38,"sizes":[]}}},
-          {"id":"tc001sp3","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":8,"sizes":[]}}},
-          {"id":"tc001sub","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"text-align:center;color:#888;font-size:15px;margin:0;\">Legal entity details, ordering rules &amp; your rights</p>"}},
-          {"id":"tc001sp4","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":40,"sizes":[]}}}
-        ]
-      }]
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#FAFAF8",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        },
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1200,
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "2d404ff0",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "8b4cb16d",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 50,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "41896e36",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"text-align:center;font-size:11px;letter-spacing:3px;text-transform:uppercase;color:#D4AF37;font-family:Inter,sans-serif;margin:0 0 10px;font-weight:600;\">Burans Valley</p>",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.85,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "379afb51",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Terms & Conditions",
+                "header_size": "h1",
+                "align": "center",
+                "title_color": "#1B3B2B",
+                "typography_typography": "custom",
+                "typography_font_family": "Playfair Display",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 40,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 32,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 28,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "55670759",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 10,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "6a571b94",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"text-align:center;color:#666;font-size:15px;margin:0;font-family:Inter,sans-serif;\">Legal entity details, ordering rules &amp; your rights</p>",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.85,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "ea633a17",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 50,
+                  "sizes": []
+                }
+              }
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "tc002aaa",
+      "id": "aada9e01",
       "elType": "section",
-      "settings": {"background_background":"classic","background_color":"#ffffff","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false},"layout":"boxed","content_width":{"unit":"px","size":860,"sizes":[]}},
-      "elements": [{
-        "id": "tc002col",
-        "elType": "column",
-        "settings": {"_column_size":100},
-        "elements": [
-          {"id":"tc002txt","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"color:#888;font-size:14px;text-align:right;\">Last Updated: <strong>[DATE]</strong></p>\n<h2>1. Business Details</h2>\n<table style=\"width:100%;border-collapse:collapse;font-size:15px;\"><tr><td style=\"padding:8px 12px;border:1px solid #e0d5c8;width:40%;\"><strong>Legal Name</strong></td><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\">[YOUR LEGAL COMPANY NAME]</td></tr><tr><td style=\"padding:8px 12px;border:1px solid #e0d5c8;background:#faf7f4;\"><strong>Brand Name</strong></td><td style=\"padding:8px 12px;border:1px solid #e0d5c8;background:#faf7f4;\">Burans Valley</td></tr><tr><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\"><strong>Registered Office</strong></td><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\">[FULL ADDRESS, UTTARAKHAND, PIN]</td></tr><tr><td style=\"padding:8px 12px;border:1px solid #e0d5c8;background:#faf7f4;\"><strong>FSSAI Licence No.</strong></td><td style=\"padding:8px 12px;border:1px solid #e0d5c8;background:#faf7f4;\">[14-DIGIT FSSAI NUMBER]</td></tr><tr><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\"><strong>GSTIN</strong></td><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\">[15-CHARACTER GSTIN]</td></tr><tr><td style=\"padding:8px 12px;border:1px solid #e0d5c8;background:#faf7f4;\"><strong>Customer Care</strong></td><td style=\"padding:8px 12px;border:1px solid #e0d5c8;background:#faf7f4;\">[EMAIL] | [PHONE / WhatsApp]</td></tr><tr><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\"><strong>Website</strong></td><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\">[YOUR DOMAIN]</td></tr></table>\n<h2>2. Acceptance</h2><p>By using this website and purchasing our products, you agree to these Terms. If you do not agree, please do not use this website.</p>\n<h2>3. Products</h2><p>Burans Valley sells A2 Desi Cow Bilona Ghee and related products made from Uttarakhand-sourced milk. All products are subject to FSSAI regulations. Physical labels take precedence over website descriptions.</p>\n<h2>4. Ordering & Pricing</h2><ul><li>All prices are in INR, <strong>inclusive of applicable GST</strong>.</li><li>Shipping charges (if any) are shown before payment.</li><li>We may correct pricing errors and will notify you before proceeding.</li><li>Acceptance occurs at dispatch, not at order confirmation.</li></ul>\n<h2>5. Payment</h2><p>We accept payments via <strong>[PAYMENT GATEWAY]</strong> — UPI, Net Banking, Cards, Wallets. COD availability is shown at checkout. We do not store payment card details.</p>\n<h2>6. Returns & Refunds</h2><p>See our <a href=\"/return-refund-policy\" style=\"color:#6b3e26;\">Return &amp; Refund Policy</a>. Returns are accepted only for damaged or incorrect items within 48 hours of delivery.</p>\n<h2>7. Shipping</h2><p>See our <a href=\"/shipping-policy\" style=\"color:#6b3e26;\">Shipping &amp; Delivery Policy</a>.</p>\n<h2>8. Intellectual Property</h2><p>All content — name, logo, images, text — is the property of [YOUR LEGAL COMPANY NAME] and protected under Indian IP law. No reproduction without written permission.</p>\n<h2>9. Disclaimer of Warranties</h2><p>Health-related blog content is for general information only. See our <a href=\"/disclaimer\" style=\"color:#6b3e26;\">Disclaimer</a>.</p>\n<h2>10. Limitation of Liability</h2><p>Our total liability for any claim shall not exceed the value of the relevant order.</p>\n<h2>11. Governing Law</h2><p>These Terms are governed by Indian law. Disputes are subject to the courts at <strong>[YOUR CITY / STATE]</strong>.</p>\n<h2>12. Grievances</h2><p>See our <a href=\"/grievance-redressal\" style=\"color:#6b3e26;\">Grievance Redressal page</a> (Consumer Protection E-Commerce Rules 2020).</p>\n<h2>13. Changes</h2><p>We may update these Terms at any time. The date above reflects the latest version.","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_line_height":{"unit":"em","size":1.8,"sizes":[]}}}
-        ]
-      }]
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "0",
+          "bottom": "60",
+          "left": "0",
+          "isLinked": false
+        },
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 860,
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "5afdc796",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "4129bcf4",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"text-align:right;font-size:13px;color:#999;font-family:Inter,sans-serif;margin-bottom:24px;\">Last Updated: <strong>[DATE — e.g. 1 June 2026]</strong></p>\n<h2 style=\"font-family:Playfair Display,serif;color:#1B3B2B;\">1. Business Details</h2>\n<table style=\"width:100%;border-collapse:collapse;font-size:15px;font-family:Inter,sans-serif;\">\n<tr><td style=\"padding:10px 14px;border:1px solid #DDE5DD;width:38%;font-weight:600;\">Legal Name</td><td style=\"padding:10px 14px;border:1px solid #DDE5DD;\">[YOUR LEGAL COMPANY NAME]</td></tr>\n<tr style=\"background:#F2F5F2;\"><td style=\"padding:10px 14px;border:1px solid #DDE5DD;font-weight:600;\">Brand Name</td><td style=\"padding:10px 14px;border:1px solid #DDE5DD;\">Burans Valley</td></tr>\n<tr><td style=\"padding:10px 14px;border:1px solid #DDE5DD;font-weight:600;\">Registered Office</td><td style=\"padding:10px 14px;border:1px solid #DDE5DD;\">[FULL ADDRESS, UTTARAKHAND, PIN]</td></tr>\n<tr style=\"background:#F2F5F2;\"><td style=\"padding:10px 14px;border:1px solid #DDE5DD;font-weight:600;\">FSSAI Licence No.</td><td style=\"padding:10px 14px;border:1px solid #DDE5DD;\">[14-DIGIT FSSAI NUMBER]</td></tr>\n<tr><td style=\"padding:10px 14px;border:1px solid #DDE5DD;font-weight:600;\">GSTIN</td><td style=\"padding:10px 14px;border:1px solid #DDE5DD;\">[15-CHARACTER GSTIN]</td></tr>\n<tr style=\"background:#F2F5F2;\"><td style=\"padding:10px 14px;border:1px solid #DDE5DD;font-weight:600;\">Customer Care</td><td style=\"padding:10px 14px;border:1px solid #DDE5DD;\">[EMAIL] | [PHONE / WhatsApp]</td></tr>\n<tr><td style=\"padding:10px 14px;border:1px solid #DDE5DD;font-weight:600;\">Website</td><td style=\"padding:10px 14px;border:1px solid #DDE5DD;\">[YOUR DOMAIN]</td></tr>\n</table>\n\n<h2 style=\"font-family:Playfair Display,serif;color:#1B3B2B;margin-top:36px;\">2. Acceptance</h2>\n<p>By using this website and purchasing our products, you agree to these Terms. If you do not agree, please do not use this website.</p>\n\n<h2 style=\"font-family:Playfair Display,serif;color:#1B3B2B;\">3. Products</h2>\n<p>Burans Valley sells A2 Desi Cow Bilona Ghee and related products made from Uttarakhand-sourced milk. All products are food items subject to FSSAI regulations. The physical label takes precedence over website descriptions.</p>\n\n<h2 style=\"font-family:Playfair Display,serif;color:#1B3B2B;\">4. Ordering & Pricing</h2>\n<ul><li>All prices are in INR, <strong>inclusive of GST</strong>.</li><li>Shipping charges (if any) are shown before payment.</li><li>We may correct pricing errors and will notify you before proceeding.</li><li>Acceptance occurs at dispatch, not order confirmation.</li></ul>\n\n<h2 style=\"font-family:Playfair Display,serif;color:#1B3B2B;\">5. Payment</h2>\n<p>We accept payments via <strong>[PAYMENT GATEWAY]</strong> — UPI, Net Banking, Cards, Wallets. COD availability is shown at checkout. We do not store payment card details.</p>\n\n<h2 style=\"font-family:Playfair Display,serif;color:#1B3B2B;\">6. Returns & Refunds</h2>\n<p>See our <a href=\"/return-refund-policy\" style=\"color:#1B3B2B;font-weight:500;\">Return &amp; Refund Policy</a>. Returns are accepted only for damaged or incorrect items within 48 hours of delivery.</p>\n\n<h2 style=\"font-family:Playfair Display,serif;color:#1B3B2B;\">7. Shipping</h2>\n<p>See our <a href=\"/shipping-policy\" style=\"color:#1B3B2B;font-weight:500;\">Shipping &amp; Delivery Policy</a>.</p>\n\n<h2 style=\"font-family:Playfair Display,serif;color:#1B3B2B;\">8. Intellectual Property</h2>\n<p>All content — name, logo, images, text — is the property of [YOUR LEGAL COMPANY NAME] and protected under Indian IP law. No reproduction without written permission.</p>\n\n<h2 style=\"font-family:Playfair Display,serif;color:#1B3B2B;\">9. Disclaimer of Warranties</h2>\n<p>Health content on our blog is for general information only. See our <a href=\"/disclaimer\" style=\"color:#1B3B2B;font-weight:500;\">Disclaimer</a>.</p>\n\n<h2 style=\"font-family:Playfair Display,serif;color:#1B3B2B;\">10. Limitation of Liability</h2>\n<p>Our total liability for any claim shall not exceed the value of the relevant order.</p>\n\n<h2 style=\"font-family:Playfair Display,serif;color:#1B3B2B;\">11. Governing Law</h2>\n<p>These Terms are governed by Indian law. Disputes are subject to the courts at <strong>[YOUR CITY / STATE]</strong>.</p>\n\n<h2 style=\"font-family:Playfair Display,serif;color:#1B3B2B;\">12. Grievances</h2>\n<p>See our <a href=\"/grievance-redressal\" style=\"color:#1B3B2B;font-weight:500;\">Grievance Redressal page</a> (Consumer Protection E-Commerce Rules 2020).</p>\n\n<h2 style=\"font-family:Playfair Display,serif;color:#1B3B2B;\">13. Changes</h2>\n<p>We may update these Terms at any time. The date above reflects the latest version.</p>\n",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.85,
+                  "sizes": []
+                }
+              }
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "tc003aaa",
+      "id": "6036d3bb",
       "elType": "section",
-      "settings": {"background_background":"classic","background_color":"#faf7f4","padding":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},
-      "elements": [{
-        "id": "tc003col",
-        "elType": "column",
-        "settings": {"_column_size":100,"content_position":"top"},
-        "elements": [
-          {"id":"tc003div","elType":"widget","widgetType":"divider","settings":{"color":"#d4b896","gap":{"unit":"px","size":10,"sizes":[]},"width":{"unit":"%","size":80,"sizes":[]}}},
-          {"id":"tc003sp","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":20,"sizes":[]}}},
-          {"id":"tc003nav","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"text-align:center;font-size:14px;color:#888;margin:0 0 12px;\">Other Legal Pages</p><p style=\"text-align:center;font-size:14px;line-height:2;\"><a href=\"/privacy-policy\" style=\"color:#6b3e26;text-decoration:none;font-weight:500;\">Privacy Policy</a> &nbsp;|&nbsp; <a href=\"/return-refund-policy\" style=\"color:#6b3e26;text-decoration:none;font-weight:500;\">Return &amp; Refund</a> &nbsp;|&nbsp; <a href=\"/shipping-policy\" style=\"color:#6b3e26;text-decoration:none;font-weight:500;\">Shipping Policy</a> &nbsp;|&nbsp; <a href=\"/grievance-redressal\" style=\"color:#6b3e26;text-decoration:none;font-weight:500;\">Grievance Redressal</a> &nbsp;|&nbsp; <a href=\"/disclaimer\" style=\"color:#6b3e26;text-decoration:none;font-weight:500;\">Disclaimer</a></p>"}},
-          {"id":"tc003sp2","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":20,"sizes":[]}}}
-        ]
-      }]
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#F5F4EF",
+        "padding": {
+          "unit": "px",
+          "top": "24",
+          "right": "0",
+          "bottom": "24",
+          "left": "0",
+          "isLinked": false
+        },
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1200,
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "9f709e5f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "e477078c",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {
+                "color": "#D4AF37",
+                "gap": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "width": {
+                  "unit": "%",
+                  "size": 40,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "e6779bb7",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "4e7842fa",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"text-align:center;font-size:13px;color:#888;margin:0 0 10px;letter-spacing:1px;text-transform:uppercase;font-family:Inter,sans-serif;\">Other Legal Pages</p><p style=\"text-align:center;font-size:14px;line-height:2.2;\"><a href=\"/privacy-policy\" style=\"color:#1B3B2B;text-decoration:none;font-weight:500;font-family:Inter,sans-serif;\">Privacy Policy</a> &nbsp;|&nbsp; <a href=\"/return-refund-policy\" style=\"color:#1B3B2B;text-decoration:none;font-weight:500;font-family:Inter,sans-serif;\">Return & Refund Policy</a> &nbsp;|&nbsp; <a href=\"/shipping-policy\" style=\"color:#1B3B2B;text-decoration:none;font-weight:500;font-family:Inter,sans-serif;\">Shipping Policy</a> &nbsp;|&nbsp; <a href=\"/grievance-redressal\" style=\"color:#1B3B2B;text-decoration:none;font-weight:500;font-family:Inter,sans-serif;\">Grievance Redressal</a> &nbsp;|&nbsp; <a href=\"/disclaimer\" style=\"color:#1B3B2B;text-decoration:none;font-weight:500;font-family:Inter,sans-serif;\">Disclaimer</a></p>",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.85,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "dc680803",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                }
+              }
+            }
+          ]
+        }
+      ]
     }
   ],
-  "page_settings": {"hide_title": true, "page_layout": "elementor_canvas"}
+  "page_settings": {
+    "hide_title": true,
+    "page_layout": "elementor_canvas"
+  }
 }
