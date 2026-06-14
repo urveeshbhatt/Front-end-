@@ -1,0 +1,80 @@
+{
+  "version": "0.4",
+  "title": "Burans Valley — Privacy Policy",
+  "type": "page",
+  "content": [
+    {
+      "id": "4d1945af",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#fdf9f5",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "7b861b9b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "content_position": "top"
+          },
+          "elements": [
+            {"id":"f4fb1dab","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":40,"sizes":[]}}},
+            {"id":"07467d3d","elType":"widget","widgetType":"heading","settings":{"title":"Burans Valley","header_size":"h5","align":"center","title_color":"#a07850","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]}}},
+            {"id":"ae1baad1","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":6,"sizes":[]}}},
+            {"id":"3d453948","elType":"widget","widgetType":"heading","settings":{"title":"Privacy Policy","header_size":"h1","align":"center","title_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":38,"sizes":[]}}},
+            {"id":"88c8f67e","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":8,"sizes":[]}}},
+            {"id":"ea04d7ab","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"text-align:center;color:#888;font-size:15px;margin:0;\">How we collect, use, and protect your data</p>"}},
+            {"id":"fbae1621","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":40,"sizes":[]}}}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c0a2537f",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#ffffff",
+        "padding": {"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false},
+        "layout": "boxed",
+        "content_width": {"unit":"px","size":860,"sizes":[]}
+      },
+      "elements": [
+        {
+          "id": "33a18ddf",
+          "elType": "column",
+          "settings": {"_column_size": 100},
+          "elements": [
+            {"id":"d466741a","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"color:#888;font-size:14px;text-align:right;\">Last Updated: <strong>[DATE]</strong></p>\n<h2>1. Who We Are</h2>\n<p>This Privacy Policy applies to <strong>Burans Valley</strong>, operated by <strong>[YOUR LEGAL COMPANY NAME]</strong>, registered at <strong>[REGISTERED ADDRESS]</strong>, India. We operate the website at <strong>[YOUR DOMAIN]</strong>.</p>\n<h2>2. What Information We Collect</h2>\n<ul><li><strong>Account &amp; Order Data:</strong> Name, email, phone, billing and shipping address.</li><li><strong>Payment Data:</strong> We do <em>not</em> store card details. Payments are handled by <strong>[PAYMENT GATEWAY]</strong>.</li><li><strong>Usage Data:</strong> Pages visited, browser, device, IP address — via cookies and analytics.</li><li><strong>Communications:</strong> Messages sent via email, WhatsApp, or contact forms.</li></ul>\n<h2>3. How We Use Your Information</h2>\n<ul><li>To process and fulfil orders and send confirmations.</li><li>To provide customer support.</li><li>To send transactional notifications (shipping updates, invoice).</li><li>To send marketing communications — <em>only with your explicit consent</em>. Unsubscribe at any time.</li><li>To improve our website through anonymised analytics.</li><li>To comply with Indian law.</li></ul>\n<h2>4. Cookies</h2>\n<ul><li><strong>Strictly Necessary:</strong> Required for the website and checkout to function.</li><li><strong>Analytics:</strong> Google Analytics (anonymised).</li><li><strong>Marketing:</strong> Only placed with your consent via our cookie banner.</li></ul>\n<h2>5. Data Sharing</h2>\n<p>We share data only where necessary: <strong>[COURIER PARTNER]</strong> for shipping; <strong>[PAYMENT GATEWAY]</strong> for transactions; analytics providers (anonymised only); legal authorities if required by Indian law. We do <strong>not</strong> sell your data.</p>\n<h2>6. Data Retention</h2>\n<p>Order and account data is retained for a minimum of <strong>7 years</strong> as required by Indian tax regulations.</p>\n<h2>7. Your Rights</h2>\n<p>You may access, correct, or request deletion of your data, and withdraw marketing consent at any time. Email: <strong>[CUSTOMER SUPPORT EMAIL]</strong>.</p>\n<h2>8. Data Security</h2>\n<p>We use SSL/TLS encryption and secure hosting. If you discover a security issue, notify us immediately.</p>\n<h2>9. Children</h2>\n<p>Our site is not directed at children under 18. We do not knowingly collect data from minors.</p>\n<h2>10. Changes</h2>\n<p>We may update this policy; the date above will reflect changes. Continued use constitutes acceptance.</p>\n<h2>11. Contact</h2>\n<p>See our <a href=\"/grievance-redressal\" style=\"color:#6b3e26;\">Grievance Redressal page</a> for privacy complaints.</p>","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_line_height":{"unit":"em","size":1.8,"sizes":[]}}}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "68928277",
+      "elType": "section",
+      "settings": {"background_background":"classic","background_color":"#faf7f4","padding":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},
+      "elements": [{
+        "id": "639414b0",
+        "elType": "column",
+        "settings": {"_column_size":100,"content_position":"top"},
+        "elements": [
+          {"id":"dbbb3c0b","elType":"widget","widgetType":"divider","settings":{"color":"#d4b896","gap":{"unit":"px","size":10,"sizes":[]},"width":{"unit":"%","size":80,"sizes":[]}}},
+          {"id":"0f11ec16","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":20,"sizes":[]}}},
+          {"id":"983b245a","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"text-align:center;font-size:14px;color:#888;margin:0 0 12px;\">Other Legal Pages</p><p style=\"text-align:center;font-size:14px;line-height:2;\"><a href=\"/terms-conditions\" style=\"color:#6b3e26;text-decoration:none;font-weight:500;\">Terms &amp; Conditions</a> &nbsp;|&nbsp; <a href=\"/return-refund-policy\" style=\"color:#6b3e26;text-decoration:none;font-weight:500;\">Return &amp; Refund Policy</a> &nbsp;|&nbsp; <a href=\"/shipping-policy\" style=\"color:#6b3e26;text-decoration:none;font-weight:500;\">Shipping Policy</a> &nbsp;|&nbsp; <a href=\"/grievance-redressal\" style=\"color:#6b3e26;text-decoration:none;font-weight:500;\">Grievance Redressal</a> &nbsp;|&nbsp; <a href=\"/disclaimer\" style=\"color:#6b3e26;text-decoration:none;font-weight:500;\">Disclaimer</a></p>"}},
+          {"id":"dd0ff2a2","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":20,"sizes":[]}}}
+        ]
+      }]
+    }
+  ],
+  "page_settings": {"hide_title": true, "page_layout": "elementor_canvas"}
+}

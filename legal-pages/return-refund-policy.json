@@ -1,0 +1,56 @@
+{
+  "version": "0.4",
+  "title": "Burans Valley — Return & Refund Policy",
+  "type": "page",
+  "content": [
+    {
+      "id": "rr001aaa",
+      "elType": "section",
+      "settings": {"background_background":"classic","background_color":"#fdf9f5","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},
+      "elements": [{
+        "id": "rr001col",
+        "elType": "column",
+        "settings": {"_column_size":100,"content_position":"top"},
+        "elements": [
+          {"id":"rr001sp1","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":40,"sizes":[]}}},
+          {"id":"rr001br","elType":"widget","widgetType":"heading","settings":{"title":"Burans Valley","header_size":"h5","align":"center","title_color":"#a07850","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]}}},
+          {"id":"rr001sp2","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":6,"sizes":[]}}},
+          {"id":"rr001h1","elType":"widget","widgetType":"heading","settings":{"title":"Return & Refund Policy","header_size":"h1","align":"center","title_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":38,"sizes":[]}}},
+          {"id":"rr001sp3","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":8,"sizes":[]}}},
+          {"id":"rr001sub","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"text-align:center;color:#888;font-size:15px;margin:0;\">Damaged items, refund timelines &amp; cancellations</p>"}},
+          {"id":"rr001sp4","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":40,"sizes":[]}}}
+        ]
+      }]
+    },
+    {
+      "id": "rr002aaa",
+      "elType": "section",
+      "settings": {"background_background":"classic","background_color":"#ffffff","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false},"layout":"boxed","content_width":{"unit":"px","size":860,"sizes":[]}},
+      "elements": [{
+        "id": "rr002col",
+        "elType": "column",
+        "settings": {"_column_size":100},
+        "elements": [
+          {"id":"rr002txt","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"color:#888;font-size:14px;text-align:right;\">Last Updated: <strong>[DATE]</strong></p>\n<p>At Burans Valley, we stand behind every jar we dispatch. Because ghee is a food product, our return window is limited — but if something is wrong, we will make it right.</p>\n<h2>1. What We Accept for Return / Replacement</h2>\n<table style=\"width:100%;border-collapse:collapse;font-size:15px;\"><tr style=\"background:#faf7f4;\"><th style=\"padding:10px 12px;border:1px solid #e0d5c8;text-align:left;\">Situation</th><th style=\"padding:10px 12px;border:1px solid #e0d5c8;text-align:left;\">Resolution</th><th style=\"padding:10px 12px;border:1px solid #e0d5c8;text-align:left;\">Time Limit</th></tr><tr><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\">Product arrived physically damaged (broken seal, cracked jar)</td><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\">Full replacement or refund</td><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\"><strong>48 hours</strong></td></tr><tr style=\"background:#faf7f4;\"><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\">Wrong product received</td><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\">Full replacement + free pickup</td><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\"><strong>48 hours</strong></td></tr><tr><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\">Quality concern (off smell, texture)</td><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\">Case-by-case; replacement where verified</td><td style=\"padding:8px 12px;border:1px solid #e0d5c8;\"><strong>48 hours</strong></td></tr></table>\n<h2>2. What We Cannot Accept</h2><ul><li>Opened or partially used products (food-safety reasons), unless a genuine quality defect.</li><li>Returns initiated more than 48 hours after delivery.</li><li>Change-of-mind returns.</li><li>Damage caused by improper storage after delivery.</li></ul>\n<h2>3. How to Raise a Request</h2><ol><li>Contact us at <strong>[EMAIL]</strong> or WhatsApp <strong>[WHATSAPP]</strong> within 48 hours of delivery.</li><li>Share your <strong>Order ID</strong> and <strong>clear photographs</strong> of the damaged or incorrect item and packaging.</li><li>We will respond within <strong>24 business hours</strong>.</li><li>For eligible returns, we arrange a free reverse pickup or confirm disposal instructions.</li></ol>\n<h2>4. Refund Process</h2><ul><li>Approved refunds go to your original payment method.</li><li>Refunds appear within <strong>5–7 business days</strong> after confirmation.</li><li>COD orders: refunds via bank transfer — provide account details with your request.</li></ul>\n<h2>5. Cancellations</h2><ul><li>You may cancel <strong>before dispatch</strong> — email <strong>[EMAIL]</strong> immediately with your Order ID.</li><li>Once dispatched, cancellation is not possible — raise a return request after delivery.</li><li>We may cancel orders in case of stock issues, payment failure, or fraud — full refund provided.</li></ul>\n<h2>6. Questions?</h2><p>Email <strong>[EMAIL]</strong> or see our <a href=\"/grievance-redressal\" style=\"color:#6b3e26;\">Grievance Redressal page</a>.</p>","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_line_height":{"unit":"em","size":1.8,"sizes":[]}}}
+        ]
+      }]
+    },
+    {
+      "id": "rr003aaa",
+      "elType": "section",
+      "settings": {"background_background":"classic","background_color":"#faf7f4","padding":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},
+      "elements": [{
+        "id": "rr003col",
+        "elType": "column",
+        "settings": {"_column_size":100,"content_position":"top"},
+        "elements": [
+          {"id":"rr003div","elType":"widget","widgetType":"divider","settings":{"color":"#d4b896","gap":{"unit":"px","size":10,"sizes":[]},"width":{"unit":"%","size":80,"sizes":[]}}},
+          {"id":"rr003sp","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":20,"sizes":[]}}},
+          {"id":"rr003nav","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"text-align:center;font-size:14px;color:#888;margin:0 0 12px;\">Other Legal Pages</p><p style=\"text-align:center;font-size:14px;line-height:2;\"><a href=\"/privacy-policy\" style=\"color:#6b3e26;text-decoration:none;font-weight:500;\">Privacy Policy</a> &nbsp;|&nbsp; <a href=\"/terms-conditions\" style=\"color:#6b3e26;text-decoration:none;font-weight:500;\">Terms &amp; Conditions</a> &nbsp;|&nbsp; <a href=\"/shipping-policy\" style=\"color:#6b3e26;text-decoration:none;font-weight:500;\">Shipping Policy</a> &nbsp;|&nbsp; <a href=\"/grievance-redressal\" style=\"color:#6b3e26;text-decoration:none;font-weight:500;\">Grievance Redressal</a> &nbsp;|&nbsp; <a href=\"/disclaimer\" style=\"color:#6b3e26;text-decoration:none;font-weight:500;\">Disclaimer</a></p>"}},
+          {"id":"rr003sp2","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":20,"sizes":[]}}}
+        ]
+      }]
+    }
+  ],
+  "page_settings": {"hide_title": true, "page_layout": "elementor_canvas"}
+}
