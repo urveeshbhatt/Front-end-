@@ -4,104 +4,1025 @@
   "type": "page",
   "content": [
     {
-      "id": "702ec223",
+      "id": "943801ac",
       "elType": "section",
-      "settings": {"gap":"no","background_background":"classic","background_color":"#fdf9f5","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false}},
+      "settings": {
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#FAFAF8",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "0",
+          "bottom": "60",
+          "left": "0",
+          "isLinked": false
+        }
+      },
       "elements": [
-        {"id":"7e083cfe","elType":"column","settings":{"_column_size":50,"content_position":"top"},"elements":[{"id":"79253340","elType":"widget","widgetType":"woocommerce-product-images","settings":{}}]},
-        {"id":"31200600","elType":"column","settings":{"_column_size":50,"content_position":"top","padding":{"unit":"px","top":"0","right":"40","bottom":"0","left":"40","isLinked":false}},"elements":[
-          {"id":"a323ac71","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#a07850;margin:0 0 6px;font-weight:600;\">Burans Valley · Himalayan Origin</p>"}},
-          {"id":"8e2c8dbf","elType":"widget","widgetType":"woocommerce-product-title","settings":{"header_size":"h1","title_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":32,"sizes":[]}}},
-          {"id":"544dcc13","elType":"widget","widgetType":"woocommerce-product-rating","settings":{}},
-          {"id":"d18b891b","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":6,"sizes":[]}}},
-          {"id":"8c16b5b6","elType":"widget","widgetType":"woocommerce-product-price","settings":{"price_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]}}},
-          {"id":"48d46705","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":4,"sizes":[]}}},
-          {"id":"5ecd5def","elType":"widget","widgetType":"woocommerce-product-short-description","settings":{}},
-          {"id":"741ba446","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":16,"sizes":[]}}},
-          {"id":"589284d5","elType":"widget","widgetType":"woocommerce-product-add-to-cart","settings":{"button_background_color":"#2c1810","button_text_color":"#ffffff","button_border_radius":{"unit":"px","size":4,"sizes":[]},"button_typography_typography":"custom","button_typography_font_size":{"unit":"px","size":16,"sizes":[]}}},
-          {"id":"665880de","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":16,"sizes":[]}}},
-          {"id":"4e4441ac","elType":"widget","widgetType":"text-editor","settings":{"editor":"<div style=\"display:flex;flex-wrap:wrap;gap:10px;margin-top:16px;\"><span style=\"background:#fdf9f5;border:1px solid #e0d5c8;border-radius:20px;padding:6px 14px;font-size:13px;color:#2c1810;font-weight:500;\">✓ FSSAI Certified</span><span style=\"background:#fdf9f5;border:1px solid #e0d5c8;border-radius:20px;padding:6px 14px;font-size:13px;color:#2c1810;font-weight:500;\">✓ No Preservatives</span><span style=\"background:#fdf9f5;border:1px solid #e0d5c8;border-radius:20px;padding:6px 14px;font-size:13px;color:#2c1810;font-weight:500;\">✓ Lab Tested</span><span style=\"background:#fdf9f5;border:1px solid #e0d5c8;border-radius:20px;padding:6px 14px;font-size:13px;color:#2c1810;font-weight:500;\">✓ No Artificial Flavour</span></div>"}}
-        ]}
+        {
+          "id": "67a5add3",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "content_position": "top"
+          },
+          "elements": [
+            {
+              "id": "32b919b2",
+              "elType": "widget",
+              "widgetType": "woocommerce-product-images",
+              "settings": {}
+            }
+          ]
+        },
+        {
+          "id": "3ae9e553",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "content_position": "top",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "40",
+              "bottom": "0",
+              "left": "40",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "b28b4579",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"font-size:11px;letter-spacing:3px;text-transform:uppercase;color:#D4AF37;margin:0 0 8px;font-weight:600;font-family:Inter,sans-serif;\">Burans Valley · Himalayan Origin</p>",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.85,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "29fff267",
+              "elType": "widget",
+              "widgetType": "woocommerce-product-title",
+              "settings": {
+                "header_size": "h1",
+                "title_color": "#1B3B2B",
+                "typography_typography": "custom",
+                "typography_font_family": "Playfair Display",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 34,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "4955ea33",
+              "elType": "widget",
+              "widgetType": "woocommerce-product-rating",
+              "settings": {}
+            },
+            {
+              "id": "6449e189",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 8,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "a4d278ac",
+              "elType": "widget",
+              "widgetType": "woocommerce-product-price",
+              "settings": {
+                "price_color": "#1B3B2B",
+                "typography_typography": "custom",
+                "typography_font_family": "Playfair Display",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 28,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "5d45ed3f",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 4,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "5c0c7fa8",
+              "elType": "widget",
+              "widgetType": "woocommerce-product-short-description",
+              "settings": {
+                "typography_typography": "custom",
+                "typography_font_family": "Inter"
+              }
+            },
+            {
+              "id": "099a7880",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "c201ac7d",
+              "elType": "widget",
+              "widgetType": "woocommerce-product-add-to-cart",
+              "settings": {
+                "button_background_color": "#D4AF37",
+                "button_text_color": "#FFFFFF",
+                "button_hover_background_color": "#1B3B2B",
+                "button_border_radius": {
+                  "unit": "px",
+                  "size": 4,
+                  "sizes": []
+                },
+                "button_typography_typography": "custom",
+                "button_typography_font_family": "Inter",
+                "button_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "button_typography_font_weight": "600"
+              }
+            },
+            {
+              "id": "356534d6",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "541926cc",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "\n<div style=\"display:flex;flex-wrap:wrap;gap:10px;margin-top:20px;\">\n  <span style=\"border:1.5px solid #D4AF37;border-radius:20px;padding:6px 16px;font-size:13px;color:#1B3B2B;font-weight:600;font-family:Inter,sans-serif;letter-spacing:.3px;\">✓ FSSAI Certified</span>\n  <span style=\"border:1.5px solid #D4AF37;border-radius:20px;padding:6px 16px;font-size:13px;color:#1B3B2B;font-weight:600;font-family:Inter,sans-serif;letter-spacing:.3px;\">✓ No Preservatives</span>\n  <span style=\"border:1.5px solid #D4AF37;border-radius:20px;padding:6px 16px;font-size:13px;color:#1B3B2B;font-weight:600;font-family:Inter,sans-serif;letter-spacing:.3px;\">✓ Lab Tested</span>\n  <span style=\"border:1.5px solid #D4AF37;border-radius:20px;padding:6px 16px;font-size:13px;color:#1B3B2B;font-weight:600;font-family:Inter,sans-serif;letter-spacing:.3px;\">✓ No Artificial Flavour</span>\n</div>\n",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.85,
+                  "sizes": []
+                }
+              }
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "b271c9d0",
+      "id": "465505e2",
       "elType": "section",
-      "settings": {"background_background":"classic","background_color":"#ffffff","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false},"layout":"boxed","content_width":{"unit":"px","size":900,"sizes":[]}},
-      "elements": [{"id":"6669dda3","elType":"column","settings":{"_column_size":100},"elements":[
-        {"id":"2e916a4c","elType":"widget","widgetType":"heading","settings":{"title":"Which size is right for you?","header_size":"h2","align":"center","title_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]}}},
-        {"id":"9ff1160f","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":20,"sizes":[]}}},
-        {"id":"d5e4175c","elType":"widget","widgetType":"text-editor","settings":{"editor":"<table style=\"width:100%;border-collapse:collapse;font-size:15px;\"><thead><tr style=\"background:#2c1810;color:#fff;\"><th style=\"padding:10px 14px;text-align:left;\">Size</th><th style=\"padding:10px 14px;text-align:left;\">Best For</th><th style=\"padding:10px 14px;text-align:left;\">Approx. Duration</th><th style=\"padding:10px 14px;text-align:left;\">Price</th></tr></thead><tbody><tr><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\"><strong>150 g</strong><br><span style=\"font-size:13px;color:#888;\">Trial Pack</span></td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">First-time buyers. Try before committing.</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">~2 weeks (single person)</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">[ADD PRICE]</td></tr><tr style=\"background:#fdf9f5;\"><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\"><strong>500 g</strong><br><span style=\"font-size:13px;color:#888;\">Most Popular</span></td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">Couples &amp; small families.</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">~6 weeks (2 people)</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">[ADD PRICE]</td></tr><tr><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\"><strong>1 kg</strong><br><span style=\"font-size:13px;color:#888;\">Best Value</span></td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">Families of 3–5. Daily cooking use.</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">~3 months (4 people)</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">[ADD PRICE]</td></tr><tr style=\"background:#fdf9f5;\"><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\"><strong>5 kg</strong><br><span style=\"font-size:13px;color:#888;\">Bulk / Gifting</span></td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">Large families, bulk buyers, gifting &amp; corporate.</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">~15 months (4 people)</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">[ADD PRICE]</td></tr></tbody></table><p style=\"font-size:13px;color:#999;margin-top:8px;\">Prices inclusive of GST. Free shipping above ₹[THRESHOLD].</p>"}}
-      ]}]
-    },
-    {
-      "id": "27ae6b7f",
-      "elType": "section",
-      "settings": {"gap":"no","background_background":"classic","background_color":"#fdf9f5","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false}},
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "0",
+          "bottom": "60",
+          "left": "0",
+          "isLinked": false
+        },
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 920,
+          "sizes": []
+        }
+      },
       "elements": [
-        {"id":"90b24554","elType":"column","settings":{"_column_size":50,"content_position":"top","padding":{"unit":"px","top":"0","right":"40","bottom":"0","left":"40","isLinked":false}},"elements":[
-          {"id":"bf55109b","elType":"widget","widgetType":"heading","settings":{"title":"The rarest ghee from the Himalayas.","header_size":"h2","align":"left","title_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":30,"sizes":[]}}},
-          {"id":"8b457679","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":16,"sizes":[]}}},
-          {"id":"c493a0a0","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>The <strong>Badri cow</strong> is an indigenous hill breed found only in the Uttarakhand Himalayas. Named after the sacred Badrinath region, these compact cows have grazed the same Himalayan alpine meadows for centuries.</p><p>What makes Badri ghee rare:</p><ul style=\"line-height:2;padding-left:20px;\"><li><strong>The breed:</strong> One of 50 officially recognised indigenous cattle breeds of India (NBAGR registered). Not a cross-breed.</li><li><strong>The diet:</strong> Natural high-altitude grazing — alpine herbs, clean Himalayan water, no feedlot, no hormones.</li><li><strong>The milk yield:</strong> Badri cows give only ~2–3 litres/day vs. 15–20 for commercial breeds. This is why Badri ghee is rare.</li><li><strong>The process:</strong> Same traditional bilona method as our A2 Ghee — hand-churned, slow-cooked, zero shortcuts.</li></ul><p>[ADD: specific location / herd / cooperative details here.]</p>"}}
-        ]},
-        {"id":"b0d62438","elType":"column","settings":{"_column_size":50,"content_position":"top","padding":{"unit":"px","top":"0","right":"40","bottom":"0","left":"20","isLinked":false}},"elements":[
-          {"id":"d3e3eeb3","elType":"widget","widgetType":"text-editor","settings":{"editor":"<div style=\"background:#e8ddd0;border-radius:8px;height:380px;display:flex;align-items:center;justify-content:center;color:#999;font-size:14px;\">[ADD PRODUCT / PROCESS IMAGE HERE]</div>"}}
-        ]}
+        {
+          "id": "2e946f66",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "33ac118f",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Which size is right for you?",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#1B3B2B",
+                "typography_typography": "custom",
+                "typography_font_family": "Playfair Display",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 28,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 19,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "0cdec990",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 20,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "b8e6da6d",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "\n<table style=\"width:100%;border-collapse:collapse;font-size:15px;font-family:Inter,sans-serif;\">\n<thead>\n<tr style=\"background:#1B3B2B;color:#fff;\">\n<th style=\"padding:12px 16px;text-align:left;font-family:Playfair Display,serif;font-weight:600;\">Size</th>\n<th style=\"padding:12px 16px;text-align:left;\">Best For</th>\n<th style=\"padding:12px 16px;text-align:left;\">Approx. Duration</th>\n<th style=\"padding:12px 16px;text-align:left;\">Price</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\"><strong>150 g</strong><br><span style=\"font-size:12px;color:#D4AF37;font-weight:600;letter-spacing:1px;text-transform:uppercase;\">Trial Pack</span></td>\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\">First-time buyers. Try before committing.</td>\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\">~2 weeks (single person)</td>\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\">[ADD PRICE]</td>\n</tr>\n<tr style=\"background:#F2F5F2;\">\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\"><strong>500 g</strong><br><span style=\"font-size:12px;color:#D4AF37;font-weight:600;letter-spacing:1px;text-transform:uppercase;\">Most Popular</span></td>\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\">Couples &amp; small families.</td>\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\">~6 weeks (2 people)</td>\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\">[ADD PRICE]</td>\n</tr>\n<tr>\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\"><strong>1 kg</strong><br><span style=\"font-size:12px;color:#D4AF37;font-weight:600;letter-spacing:1px;text-transform:uppercase;\">Best Value</span></td>\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\">Families of 3–5. Daily cooking use.</td>\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\">~3 months (4 people)</td>\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\">[ADD PRICE]</td>\n</tr>\n<tr style=\"background:#F2F5F2;\">\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\"><strong>5 kg</strong><br><span style=\"font-size:12px;color:#D4AF37;font-weight:600;letter-spacing:1px;text-transform:uppercase;\">Bulk / Gifting</span></td>\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\">Large families, bulk buyers, gifting &amp; corporate orders.</td>\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\">~15 months (4 people)</td>\n<td style=\"padding:12px 16px;border:1px solid #DDE5DD;\">[ADD PRICE]</td>\n</tr>\n</tbody>\n</table>\n<p style=\"font-size:13px;color:#888;margin-top:10px;font-family:Inter,sans-serif;\">All prices inclusive of GST. Free shipping above ₹[THRESHOLD].</p>\n",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.85,
+                  "sizes": []
+                }
+              }
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "63c03a2b",
+      "id": "011fc2f9",
       "elType": "section",
-      "settings": {"background_background":"classic","background_color":"#ffffff","padding":{"unit":"px","top":"60","right":"0","bottom":"0","left":"0","isLinked":false},"layout":"boxed","content_width":{"unit":"px","size":1200,"sizes":[]}},
-      "elements": [{"id":"11d5e614","elType":"column","settings":{"_column_size":100},"elements":[{"id":"d0fea5b3","elType":"widget","widgetType":"heading","settings":{"title":"Why Burans Valley?","header_size":"h2","align":"center","title_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":28,"sizes":[]}}}]}]
-    },
-    {
-      "id": "28f82a62",
-      "elType": "section",
-      "settings": {"background_background":"classic","background_color":"#ffffff","padding":{"unit":"px","top":"30","right":"0","bottom":"60","left":"0","isLinked":false}},
+      "settings": {
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#F2F5F2",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "0",
+          "bottom": "60",
+          "left": "0",
+          "isLinked": false
+        }
+      },
       "elements": [
-        {"id":"799c367c","elType":"column","settings":{"_column_size":33},"elements":[{"id":"81ad254d","elType":"widget","widgetType":"icon-box","settings":{"selected_icon":{"value":"fa-seedling","library":"fa-solid"},"title_text":"Indigenous Badri Breed","description_text":"Badri cows are native to the Uttarakhand highlands. An NBAGR-recognised indigenous breed — not a cross-breed.","position":"top","title_size":"h4","title_color":"#2c1810","description_color":"#555","icon_color":"#a07850","icon_size":{"unit":"px","size":36,"sizes":[]}}}]},
-        {"id":"05ca33fe","elType":"column","settings":{"_column_size":33},"elements":[{"id":"a38a634f","elType":"widget","widgetType":"icon-box","settings":{"selected_icon":{"value":"fa-certificate","library":"fa-solid"},"title_text":"High-Altitude Grazing","description_text":"Free-range Himalayan meadows, alpine herbs, and clean mountain spring water. No feedlot. No hormones.","position":"top","title_size":"h4","title_color":"#2c1810","description_color":"#555","icon_color":"#a07850","icon_size":{"unit":"px","size":36,"sizes":[]}}}]},
-        {"id":"334d5b1b","elType":"column","settings":{"_column_size":33},"elements":[{"id":"b6bb8c0b","elType":"widget","widgetType":"icon-box","settings":{"selected_icon":{"value":"fa-leaf","library":"fa-solid"},"title_text":"Exceptionally Rare","description_text":"Badri cows produce only 2–3 litres of milk per day. Limited small-batch production. No compromises.","position":"top","title_size":"h4","title_color":"#2c1810","description_color":"#555","icon_color":"#a07850","icon_size":{"unit":"px","size":36,"sizes":[]}}}]}
+        {
+          "id": "b032a4eb",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "content_position": "top",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "40",
+              "bottom": "0",
+              "left": "40",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "88d3890e",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "The rarest ghee from the Himalayas.",
+                "header_size": "h2",
+                "align": "left",
+                "title_color": "#1B3B2B",
+                "typography_typography": "custom",
+                "typography_font_family": "Playfair Display",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 30,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 24,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "d6e7beac",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "eaf8bacd",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "\n<p>The <strong>Badri cow</strong> is an indigenous hill breed found only in the Uttarakhand Himalayas — named after the sacred Badrinath region.</p>\n<p>What makes Badri ghee rare:</p>\n<ul style=\"line-height:2;padding-left:20px;font-family:Inter,sans-serif;\">\n<li><strong>The breed:</strong> One of 50 officially recognised indigenous cattle breeds of India (NBAGR registered). Not a cross-breed.</li>\n<li><strong>The diet:</strong> Natural high-altitude grazing — alpine herbs, clean Himalayan water, no feedlot, no hormones.</li>\n<li><strong>The milk yield:</strong> Badri cows give only ~2–3 litres/day vs. 15–20 for commercial breeds. This is why Badri ghee is rare.</li>\n<li><strong>The process:</strong> Same bilona method — hand-churned, slow-cooked, zero shortcuts.</li>\n</ul>\n<p>[ADD: specific location / herd / cooperative details here.]</p>\n",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.85,
+                  "sizes": []
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "dba36416",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "content_position": "top",
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "40",
+              "bottom": "0",
+              "left": "20",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "474d03dc",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<div style=\"background:#E8EDE8;border-radius:8px;height:400px;display:flex;align-items:center;justify-content:center;color:#999;font-size:14px;font-family:Inter,sans-serif;\">[ADD PRODUCT / PROCESS IMAGE HERE]</div>",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.85,
+                  "sizes": []
+                }
+              }
+            }
+          ]
+        }
       ]
     },
     {
-      "id": "fa2d6b42",
+      "id": "d156e730",
       "elType": "section",
-      "settings": {"background_background":"classic","background_color":"#faf7f4","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false},"layout":"boxed","content_width":{"unit":"px","size":1100,"sizes":[]}},
-      "elements": [{"id":"e8a83df7","elType":"column","settings":{"_column_size":100},"elements":[
-        {"id":"74e6f3cb","elType":"widget","widgetType":"heading","settings":{"title":"Certifications & Transparency","header_size":"h2","align":"center","title_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]}}},
-        {"id":"7a01f489","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":20,"sizes":[]}}},
-        {"id":"e3086a53","elType":"widget","widgetType":"text-editor","settings":{"editor":"<div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:24px;\"><div style=\"background:#fff;border:1px solid #e0d5c8;border-radius:8px;padding:20px 24px;text-align:center;\"><div style=\"font-size:28px;margin-bottom:8px;\">📋</div><strong style=\"display:block;color:#2c1810;font-size:15px;margin-bottom:4px;\">FSSAI Licence</strong><span style=\"color:#888;font-size:14px;\">[14-DIGIT FSSAI NUMBER]</span></div><div style=\"background:#fff;border:1px solid #e0d5c8;border-radius:8px;padding:20px 24px;text-align:center;\"><div style=\"font-size:28px;margin-bottom:8px;\">🔬</div><strong style=\"display:block;color:#2c1810;font-size:15px;margin-bottom:4px;\">Lab Tested</strong><span style=\"color:#888;font-size:14px;\">Every batch. Reports on request.</span></div><div style=\"background:#fff;border:1px solid #e0d5c8;border-radius:8px;padding:20px 24px;text-align:center;\"><div style=\"font-size:28px;margin-bottom:8px;\">📦</div><strong style=\"display:block;color:#2c1810;font-size:15px;margin-bottom:4px;\">Batch Traceability</strong><span style=\"color:#888;font-size:14px;\">Batch code on every jar. Date of making visible.</span></div><div style=\"background:#fff;border:1px solid #e0d5c8;border-radius:8px;padding:20px 24px;text-align:center;\"><div style=\"font-size:28px;margin-bottom:8px;\">🚚</div><strong style=\"display:block;color:#2c1810;font-size:15px;margin-bottom:4px;\">Free Shipping</strong><span style=\"color:#888;font-size:14px;\">On orders above ₹[THRESHOLD]. Pan-India.</span></div></div>"}}
-      ]}]
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        },
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1200,
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "1ae5630a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "096ae546",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Why Burans Valley?",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#1B3B2B",
+                "typography_typography": "custom",
+                "typography_font_family": "Playfair Display",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 28,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 19,
+                  "sizes": []
+                }
+              }
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "507b02b9",
+      "id": "8dc9d499",
       "elType": "section",
-      "settings": {"background_background":"classic","background_color":"#ffffff","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false},"layout":"boxed","content_width":{"unit":"px","size":900,"sizes":[]}},
-      "elements": [{"id":"d90de7b7","elType":"column","settings":{"_column_size":100},"elements":[{"id":"48110b0f","elType":"widget","widgetType":"woocommerce-product-content","settings":{}}]}]
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": "30",
+          "right": "0",
+          "bottom": "60",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "eae0325f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33
+          },
+          "elements": [
+            {
+              "id": "4f3933f6",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fa-seedling",
+                  "library": "fa-solid"
+                },
+                "title_text": "Indigenous Badri Breed",
+                "description_text": "Badri cows are native to the Uttarakhand highlands. An NBAGR-recognised indigenous breed — not a cross-breed.",
+                "position": "top",
+                "title_size": "h4",
+                "title_color": "#1B3B2B",
+                "description_color": "#2D2D2D",
+                "icon_color": "#D4AF37",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Playfair Display",
+                "title_typography_font_weight": "600",
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter"
+              }
+            }
+          ]
+        },
+        {
+          "id": "c2b26b91",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33
+          },
+          "elements": [
+            {
+              "id": "8d3a0c37",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fa-certificate",
+                  "library": "fa-solid"
+                },
+                "title_text": "High-Altitude Grazing",
+                "description_text": "Free-range Himalayan meadows, alpine herbs, and clean mountain spring water. No feedlot. No hormones.",
+                "position": "top",
+                "title_size": "h4",
+                "title_color": "#1B3B2B",
+                "description_color": "#2D2D2D",
+                "icon_color": "#D4AF37",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Playfair Display",
+                "title_typography_font_weight": "600",
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter"
+              }
+            }
+          ]
+        },
+        {
+          "id": "d6d666b6",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33
+          },
+          "elements": [
+            {
+              "id": "62497313",
+              "elType": "widget",
+              "widgetType": "icon-box",
+              "settings": {
+                "selected_icon": {
+                  "value": "fa-leaf",
+                  "library": "fa-solid"
+                },
+                "title_text": "Exceptionally Rare",
+                "description_text": "Badri cows produce only 2–3 litres of milk per day. Limited small-batch production. No compromises.",
+                "position": "top",
+                "title_size": "h4",
+                "title_color": "#1B3B2B",
+                "description_color": "#2D2D2D",
+                "icon_color": "#D4AF37",
+                "icon_size": {
+                  "unit": "px",
+                  "size": 38,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Playfair Display",
+                "title_typography_font_weight": "600",
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter"
+              }
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "1c91bdbb",
+      "id": "d3ea0415",
       "elType": "section",
-      "settings": {"background_background":"classic","background_color":"#fdf9f5","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false},"layout":"boxed","content_width":{"unit":"px","size":860,"sizes":[]}},
-      "elements": [{"id":"c1fcb795","elType":"column","settings":{"_column_size":100},"elements":[
-        {"id":"2c23c9e9","elType":"widget","widgetType":"heading","settings":{"title":"Frequently Asked Questions","header_size":"h2","align":"center","title_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":28,"sizes":[]}}},
-        {"id":"051df6a3","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":24,"sizes":[]}}},
-        {"id":"3da420a3","elType":"widget","widgetType":"accordion","settings":{"tabs":[{"tab_title":"What is a Badri cow?","tab_content":"The Badri cow is an indigenous hill breed native to the Uttarakhand Himalayas — one of the 50 recognised indigenous cattle breeds of India. Smaller in stature than plains breeds, Badri cows graze on Himalayan alpine herbs and grasses.","_id":"43d1f6e8"},{"tab_title":"Is Badri cow ghee different from regular A2 ghee?","tab_content":"Yes. While all Badri cow ghee is A2, it comes from a specific indigenous Himalayan breed. The unique diet — Himalayan herbs, clean mountain water, natural grazing — makes this ghee rare. Think of it like single-origin coffee vs. a blend.","_id":"4a398e0c"},{"tab_title":"Is this ghee A1 or A2?","tab_content":"[FILL IN: Confirm A2 from indigenous desi / Badri cows.]","_id":"b55c5d5a"},{"tab_title":"What is the shelf life?","tab_content":"[FILL IN: 12–18 months from manufacture date stored in a cool, dry place. Add exact date from your lab report.]","_id":"5fe7e7fa"},{"tab_title":"How should I store it?","tab_content":"Store in a cool, dry place away from direct sunlight. Do not refrigerate — ghee is shelf-stable. Always use a dry spoon.","_id":"fbf1d72b"},{"tab_title":"Does the ghee become solid in winter?","tab_content":"Yes — completely natural and a sign of purity. Solid in cold weather, liquid in warm. Both are fine to consume.","_id":"d502a5a4"},{"tab_title":"Can I return the product?","tab_content":"Returns accepted only for damaged or incorrect items within 48 hours of delivery. See our Return & Refund Policy.","_id":"977493dd"},{"tab_title":"Do you ship pan-India?","tab_content":"Yes. Delivery takes 3–7 business days depending on location. See our Shipping Policy.","_id":"3bc79b6c"}],"active_item":1,"title_color":"#2c1810","tab_active_color":"#a07850","border_color":"#e0d5c8","border_width":"1","icon_align":"right"}}
-      ]}]
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#F5F4EF",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "0",
+          "bottom": "60",
+          "left": "0",
+          "isLinked": false
+        },
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1100,
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "9f6e3224",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "a3dca845",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Certifications & Transparency",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#1B3B2B",
+                "typography_typography": "custom",
+                "typography_font_family": "Playfair Display",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 26,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "07344d68",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 20,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "c5edc1d6",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "\n<div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:24px;\">\n  <div style=\"background:#FFFFFF;border:1px solid #DDE5DD;border-top:3px solid #D4AF37;border-radius:8px;padding:24px;text-align:center;\">\n    <div style=\"font-size:30px;margin-bottom:10px;\">📋</div>\n    <strong style=\"display:block;color:#1B3B2B;font-size:15px;margin-bottom:6px;font-family:Playfair Display,serif;\">FSSAI Licence</strong>\n    <span style=\"color:#666;font-size:14px;font-family:Inter,sans-serif;\">[14-DIGIT FSSAI NUMBER]</span>\n  </div>\n  <div style=\"background:#FFFFFF;border:1px solid #DDE5DD;border-top:3px solid #D4AF37;border-radius:8px;padding:24px;text-align:center;\">\n    <div style=\"font-size:30px;margin-bottom:10px;\">🔬</div>\n    <strong style=\"display:block;color:#1B3B2B;font-size:15px;margin-bottom:6px;font-family:Playfair Display,serif;\">Lab Tested</strong>\n    <span style=\"color:#666;font-size:14px;font-family:Inter,sans-serif;\">Every batch. Reports on request.</span>\n  </div>\n  <div style=\"background:#FFFFFF;border:1px solid #DDE5DD;border-top:3px solid #D4AF37;border-radius:8px;padding:24px;text-align:center;\">\n    <div style=\"font-size:30px;margin-bottom:10px;\">📦</div>\n    <strong style=\"display:block;color:#1B3B2B;font-size:15px;margin-bottom:6px;font-family:Playfair Display,serif;\">Batch Traceability</strong>\n    <span style=\"color:#666;font-size:14px;font-family:Inter,sans-serif;\">Batch code on every jar. Date of making visible.</span>\n  </div>\n  <div style=\"background:#FFFFFF;border:1px solid #DDE5DD;border-top:3px solid #D4AF37;border-radius:8px;padding:24px;text-align:center;\">\n    <div style=\"font-size:30px;margin-bottom:10px;\">🚚</div>\n    <strong style=\"display:block;color:#1B3B2B;font-size:15px;margin-bottom:6px;font-family:Playfair Display,serif;\">Free Shipping</strong>\n    <span style=\"color:#666;font-size:14px;font-family:Inter,sans-serif;\">On orders above ₹[THRESHOLD]. Pan-India.</span>\n  </div>\n</div>\n",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.85,
+                  "sizes": []
+                }
+              }
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "bf4f3a14",
+      "id": "62f9699e",
       "elType": "section",
-      "settings": {"background_background":"classic","background_color":"#2c1810","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false},"layout":"boxed","content_width":{"unit":"px","size":700,"sizes":[]}},
-      "elements": [{"id":"86f270a6","elType":"column","settings":{"_column_size":100},"elements":[
-        {"id":"3a09ae4b","elType":"widget","widgetType":"heading","settings":{"title":"Not sure yet?","header_size":"h3","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":24,"sizes":[]}}},
-        {"id":"c38bc988","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":8,"sizes":[]}}},
-        {"id":"a99e5eec","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"text-align:center;color:rgba(255,255,255,.8);font-size:16px;margin:0 0 24px;\">Try our 150 g trial pack — smallest risk, same quality.</p>"}},
-        {"id":"570e94fd","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"text-align:center;\"><a href=\"#\" style=\"background:#ffffff;color:#2c1810;padding:12px 32px;border-radius:4px;font-weight:600;text-decoration:none;font-size:15px;\">Select 150 g Above ↑</a></p>"}}
-      ]}]
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#FFFFFF",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "0",
+          "bottom": "60",
+          "left": "0",
+          "isLinked": false
+        },
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 900,
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "e482daa4",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "1cc5184d",
+              "elType": "widget",
+              "widgetType": "woocommerce-product-content",
+              "settings": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37219ad5",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#F2F5F2",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "0",
+          "bottom": "60",
+          "left": "0",
+          "isLinked": false
+        },
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 860,
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "0dac55d8",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "b7a78a92",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Frequently Asked Questions",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#1B3B2B",
+                "typography_typography": "custom",
+                "typography_font_family": "Playfair Display",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 28,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 19,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "03fa76dc",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 24,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "dce1602e",
+              "elType": "widget",
+              "widgetType": "accordion",
+              "settings": {
+                "tabs": [
+                  {
+                    "tab_title": "What is a Badri cow?",
+                    "tab_content": "The Badri cow is an indigenous hill breed native to the Uttarakhand Himalayas — one of India's 50 recognised indigenous cattle breeds (NBAGR). Badri cows graze on Himalayan alpine herbs, giving their milk and ghee a distinctive richness.",
+                    "_id": "0596efc2"
+                  },
+                  {
+                    "tab_title": "Is Badri ghee different from regular A2 ghee?",
+                    "tab_content": "Yes. While all Badri cow ghee is A2, it comes from a specific indigenous Himalayan breed. The diet — Himalayan herbs, clean mountain water, natural grazing — makes it rare. Think single-origin coffee vs. a blend.",
+                    "_id": "7c5c5e37"
+                  },
+                  {
+                    "tab_title": "Is this ghee A1 or A2?",
+                    "tab_content": "[FILL IN: Confirm A2 from indigenous desi cows.]",
+                    "_id": "1fadc0ba"
+                  },
+                  {
+                    "tab_title": "What is the shelf life?",
+                    "tab_content": "[FILL IN: 12–18 months from manufacture date stored in a cool, dry place. Add exact date from your lab report.]",
+                    "_id": "6532c910"
+                  },
+                  {
+                    "tab_title": "How should I store it?",
+                    "tab_content": "Store in a cool, dry place away from direct sunlight. Do not refrigerate — ghee is shelf-stable. Always use a dry spoon to prevent contamination.",
+                    "_id": "61f76a8d"
+                  },
+                  {
+                    "tab_title": "Does it become solid in winter?",
+                    "tab_content": "Yes — completely natural and a sign of purity. Solid in cold weather, liquid in warm. Both are fine to consume.",
+                    "_id": "7cf265ed"
+                  },
+                  {
+                    "tab_title": "Can I return the product?",
+                    "tab_content": "Returns accepted only for damaged or incorrect items within 48 hours of delivery. See our Return & Refund Policy.",
+                    "_id": "d3f4a77c"
+                  },
+                  {
+                    "tab_title": "Do you ship pan-India?",
+                    "tab_content": "Yes. Delivery takes 3–7 business days. See our Shipping Policy for zone-wise timelines.",
+                    "_id": "f17eee5b"
+                  }
+                ],
+                "active_item": 1,
+                "title_color": "#1B3B2B",
+                "tab_active_color": "#D4AF37",
+                "border_color": "#DDE5DD",
+                "border_width": "1",
+                "icon_align": "right",
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Playfair Display",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "content_typography_typography": "custom",
+                "content_typography_font_family": "Inter"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "038c43a1",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#1B3B2B",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "0",
+          "bottom": "60",
+          "left": "0",
+          "isLinked": false
+        },
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 700,
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "fc33a182",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100
+          },
+          "elements": [
+            {
+              "id": "9493a70f",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Not sure yet?",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#FFFFFF",
+                "typography_typography": "custom",
+                "typography_font_family": "Playfair Display",
+                "typography_font_weight": "700",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 26,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 21,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 18,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "89e8d428",
+              "elType": "widget",
+              "widgetType": "spacer",
+              "settings": {
+                "space": {
+                  "unit": "px",
+                  "size": 8,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "7da78721",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"text-align:center;color:rgba(255,255,255,.85);font-size:16px;font-family:Inter,sans-serif;margin:0 0 24px;\">Try our 150 g trial pack — smallest risk, same quality.</p>",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.85,
+                  "sizes": []
+                }
+              }
+            },
+            {
+              "id": "424af3b1",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"text-align:center;\"><a href=\"#\" style=\"background:#D4AF37;color:#FFFFFF;padding:14px 36px;border-radius:4px;font-weight:700;text-decoration:none;font-size:15px;font-family:Inter,sans-serif;letter-spacing:.5px;\">Select 150 g Above ↑</a></p>",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 16,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.85,
+                  "sizes": []
+                }
+              }
+            }
+          ]
+        }
+      ]
     }
   ],
-  "page_settings": {"hide_title": true, "page_layout": "elementor_canvas"}
+  "page_settings": {
+    "hide_title": true,
+    "page_layout": "elementor_canvas"
+  }
 }
