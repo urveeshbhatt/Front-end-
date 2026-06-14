@@ -2,6 +2,128 @@
   "version": "0.4",
   "title": "Burans Valley — A2 Desi Cow Bilona Ghee",
   "type": "page",
-  "content": "__A2__",
+  "content": [
+    {
+      "id": "7196cfac",
+      "elType": "section",
+      "settings": {
+        "gap": "no",
+        "background_background": "classic",
+        "background_color": "#fdf9f5",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "0",
+          "bottom": "60",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "8e2e93c2",
+          "elType": "column",
+          "settings": {"_column_size": 50, "content_position": "top"},
+          "elements": [{"id":"cd8ad4c3","elType":"widget","widgetType":"woocommerce-product-images","settings":{}}]
+        },
+        {
+          "id": "f90c43cd",
+          "elType": "column",
+          "settings": {"_column_size": 50, "content_position": "top", "padding": {"unit":"px","top":"0","right":"40","bottom":"0","left":"40","isLinked":false}},
+          "elements": [
+            {"id":"2218c0ae","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"font-size:12px;letter-spacing:2px;text-transform:uppercase;color:#a07850;margin:0 0 6px;font-weight:600;\">Burans Valley · Uttarakhand</p>"}},
+            {"id":"3a60ae91","elType":"widget","widgetType":"woocommerce-product-title","settings":{"header_size":"h1","title_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":32,"sizes":[]}}},
+            {"id":"e9447759","elType":"widget","widgetType":"woocommerce-product-rating","settings":{}},
+            {"id":"f68ca241","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":6,"sizes":[]}}},
+            {"id":"973812af","elType":"widget","widgetType":"woocommerce-product-price","settings":{"price_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]}}},
+            {"id":"1baed630","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":4,"sizes":[]}}},
+            {"id":"c3c8a120","elType":"widget","widgetType":"woocommerce-product-short-description","settings":{}},
+            {"id":"e0fadf47","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":16,"sizes":[]}}},
+            {"id":"21934fe8","elType":"widget","widgetType":"woocommerce-product-add-to-cart","settings":{"button_background_color":"#2c1810","button_text_color":"#ffffff","button_border_radius":{"unit":"px","size":4,"sizes":[]},"button_typography_typography":"custom","button_typography_font_size":{"unit":"px","size":16,"sizes":[]}}},
+            {"id":"d568cb34","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":16,"sizes":[]}}},
+            {"id":"5b409162","elType":"widget","widgetType":"text-editor","settings":{"editor":"<div style=\"display:flex;flex-wrap:wrap;gap:10px;margin-top:16px;\"><span style=\"background:#fdf9f5;border:1px solid #e0d5c8;border-radius:20px;padding:6px 14px;font-size:13px;color:#2c1810;font-weight:500;\">✓ FSSAI Certified</span><span style=\"background:#fdf9f5;border:1px solid #e0d5c8;border-radius:20px;padding:6px 14px;font-size:13px;color:#2c1810;font-weight:500;\">✓ No Preservatives</span><span style=\"background:#fdf9f5;border:1px solid #e0d5c8;border-radius:20px;padding:6px 14px;font-size:13px;color:#2c1810;font-weight:500;\">✓ Lab Tested</span><span style=\"background:#fdf9f5;border:1px solid #e0d5c8;border-radius:20px;padding:6px 14px;font-size:13px;color:#2c1810;font-weight:500;\">✓ No Artificial Flavour</span></div>"}}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4f0f4afa",
+      "elType": "section",
+      "settings": {"background_background":"classic","background_color":"#ffffff","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false},"layout":"boxed","content_width":{"unit":"px","size":900,"sizes":[]}},
+      "elements": [{"id":"7059d445","elType":"column","settings":{"_column_size":100},"elements":[
+        {"id":"041ed186","elType":"widget","widgetType":"heading","settings":{"title":"Which size is right for you?","header_size":"h2","align":"center","title_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]}}},
+        {"id":"1b514dd1","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":20,"sizes":[]}}},
+        {"id":"5685f849","elType":"widget","widgetType":"text-editor","settings":{"editor":"<table style=\"width:100%;border-collapse:collapse;font-size:15px;\"><thead><tr style=\"background:#2c1810;color:#fff;\"><th style=\"padding:10px 14px;text-align:left;\">Size</th><th style=\"padding:10px 14px;text-align:left;\">Best For</th><th style=\"padding:10px 14px;text-align:left;\">Approx. Duration</th><th style=\"padding:10px 14px;text-align:left;\">Price</th></tr></thead><tbody><tr><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\"><strong>150 g</strong><br><span style=\"font-size:13px;color:#888;\">Trial Pack</span></td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">First-time buyers. Try before committing.</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">~2 weeks (single person)</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">[ADD PRICE]</td></tr><tr style=\"background:#fdf9f5;\"><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\"><strong>500 g</strong><br><span style=\"font-size:13px;color:#888;\">Most Popular</span></td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">Couples &amp; small families.</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">~6 weeks (2 people)</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">[ADD PRICE]</td></tr><tr><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\"><strong>1 kg</strong><br><span style=\"font-size:13px;color:#888;\">Best Value</span></td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">Families of 3–5. Daily cooking use.</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">~3 months (4 people)</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">[ADD PRICE]</td></tr><tr style=\"background:#fdf9f5;\"><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\"><strong>5 kg</strong><br><span style=\"font-size:13px;color:#888;\">Bulk / Gifting</span></td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">Large families, bulk buyers, gifting &amp; corporate orders.</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">~15 months (4 people)</td><td style=\"padding:10px 14px;border:1px solid #e0d5c8;\">[ADD PRICE]</td></tr></tbody></table><p style=\"font-size:13px;color:#999;margin-top:8px;\">Prices inclusive of GST. Free shipping above ₹[THRESHOLD].</p>"}}
+      ]}]
+    },
+    {
+      "id": "39505d09",
+      "elType": "section",
+      "settings": {"gap":"no","background_background":"classic","background_color":"#fdf9f5","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false}},
+      "elements": [
+        {"id":"8604993d","elType":"column","settings":{"_column_size":50,"content_position":"top","padding":{"unit":"px","top":"0","right":"40","bottom":"0","left":"40","isLinked":false}},"elements":[
+          {"id":"8456a691","elType":"widget","widgetType":"heading","settings":{"title":"Made the ancient way. No shortcuts.","header_size":"h2","align":"left","title_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":30,"sizes":[]}}},
+          {"id":"33793e42","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":16,"sizes":[]}}},
+          {"id":"e4e75adb","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p><strong>Bilona</strong> is a 3,000-year-old Vedic process that requires no machinery and no shortcuts.</p><p>Here is how every jar of Burans Valley A2 Bilona Ghee is made:</p><ol style=\"line-height:2;padding-left:20px;\"><li>A2 milk is collected from our desi cows in Uttarakhand.</li><li>The milk is gently cultured overnight to make curd.</li><li>The curd is hand-churned with a wooden <em>mathani</em> using a hemp rope — no electricity, no motors.</li><li>The <em>makkhan</em> (white butter) that rises is separated.</li><li>The makkhan is slow-cooked over a wood fire until pure golden ghee forms.</li></ol><p>[ADD: founder note or sourcing detail about your specific farm / Uttarakhand location.]</p>"}}
+        ]},
+        {"id":"d290846c","elType":"column","settings":{"_column_size":50,"content_position":"top","padding":{"unit":"px","top":"0","right":"40","bottom":"0","left":"20","isLinked":false}},"elements":[
+          {"id":"26ce86e7","elType":"widget","widgetType":"text-editor","settings":{"editor":"<div style=\"background:#e8ddd0;border-radius:8px;height:380px;display:flex;align-items:center;justify-content:center;color:#999;font-size:14px;\">[ADD PRODUCT / PROCESS IMAGE HERE]</div>"}}
+        ]}
+      ]
+    },
+    {
+      "id": "166a6a12",
+      "elType": "section",
+      "settings": {"background_background":"classic","background_color":"#ffffff","padding":{"unit":"px","top":"60","right":"0","bottom":"0","left":"0","isLinked":false},"layout":"boxed","content_width":{"unit":"px","size":1200,"sizes":[]}},
+      "elements": [{"id":"aa63713d","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1cf9c468","elType":"widget","widgetType":"heading","settings":{"title":"Why Burans Valley?","header_size":"h2","align":"center","title_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":28,"sizes":[]}}}]}]
+    },
+    {
+      "id": "bed07ddd",
+      "elType": "section",
+      "settings": {"background_background":"classic","background_color":"#ffffff","padding":{"unit":"px","top":"30","right":"0","bottom":"60","left":"0","isLinked":false}},
+      "elements": [
+        {"id":"d1878513","elType":"column","settings":{"_column_size":33},"elements":[{"id":"f9836149","elType":"widget","widgetType":"icon-box","settings":{"selected_icon":{"value":"fa-seedling","library":"fa-solid"},"title_text":"Traditional Bilona Method","description_text":"Hand-churned using a wooden mathani and hemp rope — the exact Vedic process, unchanged.","position":"top","title_size":"h4","title_color":"#2c1810","description_color":"#555","icon_color":"#a07850","icon_size":{"unit":"px","size":36,"sizes":[]}}}]},
+        {"id":"0f230043","elType":"column","settings":{"_column_size":33},"elements":[{"id":"37f92ad5","elType":"widget","widgetType":"icon-box","settings":{"selected_icon":{"value":"fa-certificate","library":"fa-solid"},"title_text":"Pure A2 Milk","description_text":"Sourced only from indigenous desi cows. No cross-bred or Holstein milk. No factory process.","position":"top","title_size":"h4","title_color":"#2c1810","description_color":"#555","icon_color":"#a07850","icon_size":{"unit":"px","size":36,"sizes":[]}}}]},
+        {"id":"263e87ae","elType":"column","settings":{"_column_size":33},"elements":[{"id":"797b3a3f","elType":"widget","widgetType":"icon-box","settings":{"selected_icon":{"value":"fa-leaf","library":"fa-solid"},"title_text":"Zero Additives","description_text":"No preservatives, no artificial colour, no flavour — just ghee. Batch-tested and traceable.","position":"top","title_size":"h4","title_color":"#2c1810","description_color":"#555","icon_color":"#a07850","icon_size":{"unit":"px","size":36,"sizes":[]}}}]}
+      ]
+    },
+    {
+      "id": "7df55b7c",
+      "elType": "section",
+      "settings": {"background_background":"classic","background_color":"#faf7f4","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false},"layout":"boxed","content_width":{"unit":"px","size":1100,"sizes":[]}},
+      "elements": [{"id":"10c97977","elType":"column","settings":{"_column_size":100},"elements":[
+        {"id":"35154425","elType":"widget","widgetType":"heading","settings":{"title":"Certifications & Transparency","header_size":"h2","align":"center","title_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]}}},
+        {"id":"e6e7a2b5","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":20,"sizes":[]}}},
+        {"id":"cfdd7827","elType":"widget","widgetType":"text-editor","settings":{"editor":"<div style=\"display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:24px;\"><div style=\"background:#fff;border:1px solid #e0d5c8;border-radius:8px;padding:20px 24px;text-align:center;\"><div style=\"font-size:28px;margin-bottom:8px;\">📋</div><strong style=\"display:block;color:#2c1810;font-size:15px;margin-bottom:4px;\">FSSAI Licence</strong><span style=\"color:#888;font-size:14px;\">[14-DIGIT FSSAI NUMBER]</span></div><div style=\"background:#fff;border:1px solid #e0d5c8;border-radius:8px;padding:20px 24px;text-align:center;\"><div style=\"font-size:28px;margin-bottom:8px;\">🔬</div><strong style=\"display:block;color:#2c1810;font-size:15px;margin-bottom:4px;\">Lab Tested</strong><span style=\"color:#888;font-size:14px;\">Every batch. Reports on request.</span></div><div style=\"background:#fff;border:1px solid #e0d5c8;border-radius:8px;padding:20px 24px;text-align:center;\"><div style=\"font-size:28px;margin-bottom:8px;\">📦</div><strong style=\"display:block;color:#2c1810;font-size:15px;margin-bottom:4px;\">Batch Traceability</strong><span style=\"color:#888;font-size:14px;\">Batch code on every jar. Date of making visible.</span></div><div style=\"background:#fff;border:1px solid #e0d5c8;border-radius:8px;padding:20px 24px;text-align:center;\"><div style=\"font-size:28px;margin-bottom:8px;\">🚚</div><strong style=\"display:block;color:#2c1810;font-size:15px;margin-bottom:4px;\">Free Shipping</strong><span style=\"color:#888;font-size:14px;\">On orders above ₹[THRESHOLD]. Pan-India.</span></div></div>"}}
+      ]}]
+    },
+    {
+      "id": "d45def60",
+      "elType": "section",
+      "settings": {"background_background":"classic","background_color":"#ffffff","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false},"layout":"boxed","content_width":{"unit":"px","size":900,"sizes":[]}},
+      "elements": [{"id":"1991a00d","elType":"column","settings":{"_column_size":100},"elements":[{"id":"91f13c5b","elType":"widget","widgetType":"woocommerce-product-content","settings":{}}]}]
+    },
+    {
+      "id": "afd9909d",
+      "elType": "section",
+      "settings": {"background_background":"classic","background_color":"#fdf9f5","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false},"layout":"boxed","content_width":{"unit":"px","size":860,"sizes":[]}},
+      "elements": [{"id":"f9d41fbd","elType":"column","settings":{"_column_size":100},"elements":[
+        {"id":"cce71c36","elType":"widget","widgetType":"heading","settings":{"title":"Frequently Asked Questions","header_size":"h2","align":"center","title_color":"#2c1810","typography_typography":"custom","typography_font_size":{"unit":"px","size":28,"sizes":[]}}},
+        {"id":"57d27a3e","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":24,"sizes":[]}}},
+        {"id":"9097e00b","elType":"widget","widgetType":"accordion","settings":{"tabs":[{"tab_title":"What is the bilona method?","tab_content":"Bilona is a traditional Vedic process: A2 cows are milked, the milk is curdled, then hand-churned using a wooden mathani rotated with a hemp rope — no machine, no heat. The butter (makkhan) that rises is slow-cooked on a wood fire to get pure ghee. This is the exact process we use.","_id":"660a467f"},{"tab_title":"What makes A2 ghee different from regular ghee?","tab_content":"Regular commercial ghee can come from A1 milk (cross-bred cows). A2 ghee comes from indigenous desi cows whose milk contains the A2 beta-casein protein, which is easier to digest. Combined with the bilona method, A2 bilona ghee retains more nutrients than machine-made ghee.","_id":"110a9c4e"},{"tab_title":"Is this ghee A1 or A2?","tab_content":"[FILL IN: Confirm A2 from indigenous desi cows.]","_id":"1dae70fc"},{"tab_title":"What is the shelf life?","tab_content":"[FILL IN: 12–18 months from manufacture date if stored in a cool, dry place. Add exact date from your lab report.]","_id":"1ce971b1"},{"tab_title":"How should I store it?","tab_content":"Store in a cool, dry place away from direct sunlight. Do not refrigerate — ghee is shelf-stable. Always use a dry spoon.","_id":"c71048b0"},{"tab_title":"Does the ghee become solid in winter?","tab_content":"Yes — completely natural and a sign of purity. Solid in cold weather, liquid in warm. Both are fine to consume.","_id":"1723525b"},{"tab_title":"Can I return the product?","tab_content":"Returns accepted only for damaged or incorrect items within 48 hours of delivery. See our Return & Refund Policy.","_id":"beb5d916"},{"tab_title":"Do you ship pan-India?","tab_content":"Yes. Delivery takes 3–7 business days depending on location. See our Shipping Policy for zone-wise timelines.","_id":"3d0a00b1"}],"active_item":1,"title_color":"#2c1810","tab_active_color":"#a07850","border_color":"#e0d5c8","border_width":"1","icon_align":"right"}}
+      ]}]
+    },
+    {
+      "id": "67cfb526",
+      "elType": "section",
+      "settings": {"background_background":"classic","background_color":"#2c1810","padding":{"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false},"layout":"boxed","content_width":{"unit":"px","size":700,"sizes":[]}},
+      "elements": [{"id":"2798cd6e","elType":"column","settings":{"_column_size":100},"elements":[
+        {"id":"ebf06f48","elType":"widget","widgetType":"heading","settings":{"title":"Not sure yet?","header_size":"h3","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":24,"sizes":[]}}},
+        {"id":"c60cdb1c","elType":"widget","widgetType":"spacer","settings":{"space":{"unit":"px","size":8,"sizes":[]}}},
+        {"id":"7d1fae8a","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"text-align:center;color:rgba(255,255,255,.8);font-size:16px;margin:0 0 24px;\">Try our 150 g trial pack — smallest risk, same quality.</p>"}},
+        {"id":"a8116755","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"text-align:center;\"><a href=\"#\" style=\"background:#ffffff;color:#2c1810;padding:12px 32px;border-radius:4px;font-weight:600;text-decoration:none;font-size:15px;\">Select 150 g Above ↑</a></p>"}}
+      ]}]
+    }
+  ],
   "page_settings": {"hide_title": true, "page_layout": "elementor_canvas"}
 }
